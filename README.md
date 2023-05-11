@@ -14,9 +14,7 @@
 
 <div align="center">  
 <a href="mailto:contatoallyjandrey@gmail.com" target:"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/allyjandrey/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="www.linkedin.com/in/allyson-menezes-jandrey-a295a8225" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://api.whatsapp.com/send/?phone=%2B5545998357095&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div> 
  
 ### Habilidades Principais:
