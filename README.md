@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Allyson+Jandrey;Tenho+19+anos+de+idade;Sou+de+Foz+do+Iguacu,+PR;Estudante+de+Engenharia+de+Software+na+Uniamérica;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Allyson+Jandrey;Sou+desenvolvedor+júnior;Sou+de+Foz+do+Iguacu,+PR;Estudante+de+Engenharia+de+Software+na+Uniamérica;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&count_private=true&hide_border=true&title_color=FE428E&icon_color=FE428E&text_color=c9d1d9&bg_color=0d1117" alt="allyjandrey github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allyjandrey&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="allyjandrey github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyjandrey&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allyjandrey&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=allyjandrey&theme=oldie&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -49,4 +49,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{allyjandrey}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
